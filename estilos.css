@@ -42,12 +42,16 @@ img{
    width: 100%;
 }
 .logo{
-    font-size: 70px;
+    font-size: 100px;
     color: mediumvioletred;
-    padding: 10px;
+    padding: 2px;
     font-family: 'Kalam', ;
     font-family: 'Indie Flower', cursive;
     text-align: center;
+    background: black;
+    margin: 0;
+    
+
     
 }
     
